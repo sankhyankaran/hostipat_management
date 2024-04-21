@@ -1,0 +1,19 @@
+.d-flex.flex-column.flex-shrink-0.p-3.text-white.bg-dark.show {
+  height: 100% !important;
+}
+.data_1 {
+  width: 100%;
+}
+img.logo-login {
+  width: 30%;
+  padding-bottom: 20px;
+}
+
+img.image_doctor {
+  height: 400px !important;
+  width: 100%;
+}
+img.card-img-top {
+  height: 100%;
+  width: 100%;
+}
